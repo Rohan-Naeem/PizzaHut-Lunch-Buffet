@@ -1,5 +1,4 @@
-# Replace https://YOURDOMAIN.com with your real domain before publishing.
 User-agent: *
-Allow: /
 
-Sitemap: https://YOURDOMAIN.com/sitemap.xml
+
+Sitemap: https://pizza-hut-lunch-buffet.vercel.app/sitemap.xml

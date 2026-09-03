@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace https://YOURDOMAIN.com with your real domain before publishing. -->
+<!-- Replace https://pizza-hut-lunch-buffet.vercel.app with your real domain before publishing. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOURDOMAIN.com/</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/buffet-menu.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/buffet-menu.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/pizza.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/pizza.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/sides.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/sides.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/pasta.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/pasta.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/wings.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/wings.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/salads.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/salads.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/desserts.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/desserts.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/drinks.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/drinks.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/nutrition.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/nutrition.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/faq.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/faq.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/about.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/about.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/privacy.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/privacy.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
-    <loc>https://YOURDOMAIN.com/disclaimer.html</loc>
+    <loc>https://pizza-hut-lunch-buffet.vercel.app/disclaimer.html</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
 </urlset>
