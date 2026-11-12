@@ -1,4 +1,4 @@
 User-agent: *
 
 
-Sitemap: https://pizza-hut-lunch-buffet.vercel.app/sitemap.xml
+Sitemap: https://www.pizzahutmenu.online/sitemap.xml

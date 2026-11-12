@@ -1,0 +1,1 @@
+{"redirects":[{"destination":"https://www.pizzahutmenu.online/","has":[{"type":"host","value":"pizza-hut-lunch-buffet.vercel.app"}],"permanent":true,"source":"/"},{"destination":"https://www.pizzahutmenu.online/:path*","has":[{"type":"host","value":"pizza-hut-lunch-buffet.vercel.app"}],"permanent":true,"source":"/:path*"}]}

@@ -1,60 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace https://pizza-hut-lunch-buffet.vercel.app with your real domain before publishing. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/buffet-menu.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/buffet-menu.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/pizza.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/pizza.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/sides.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/sides.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/pasta.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/pasta.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/wings.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/wings.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/salads.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/salads.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/desserts.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/desserts.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/drinks.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/drinks.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/nutrition.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/nutrition.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/faq.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/faq.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/about.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/about.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/privacy.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/privacy.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://pizza-hut-lunch-buffet.vercel.app/disclaimer.html</loc>
-    <lastmod>2026-09-03</lastmod>
+    <loc>https://www.pizzahutmenu.online/disclaimer.html</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
 </urlset>
