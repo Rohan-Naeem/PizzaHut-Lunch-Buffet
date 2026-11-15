@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "cleanUrls": true,
+  "cleanUrls": false,
   "trailingSlash": false,
   "redirects": [
     {
@@ -191,6 +191,91 @@
       "permanent": true
     },
     {
+      "source": "/buffet-menu.html",
+      "destination": "https://www.pizzahutmenu.online/buffet-menu",
+      "permanent": true
+    },
+    {
+      "source": "/pizza.html",
+      "destination": "https://www.pizzahutmenu.online/pizza",
+      "permanent": true
+    },
+    {
+      "source": "/sides.html",
+      "destination": "https://www.pizzahutmenu.online/sides",
+      "permanent": true
+    },
+    {
+      "source": "/pasta.html",
+      "destination": "https://www.pizzahutmenu.online/pasta",
+      "permanent": true
+    },
+    {
+      "source": "/wings.html",
+      "destination": "https://www.pizzahutmenu.online/wings",
+      "permanent": true
+    },
+    {
+      "source": "/salads.html",
+      "destination": "https://www.pizzahutmenu.online/salads",
+      "permanent": true
+    },
+    {
+      "source": "/desserts.html",
+      "destination": "https://www.pizzahutmenu.online/desserts",
+      "permanent": true
+    },
+    {
+      "source": "/drinks.html",
+      "destination": "https://www.pizzahutmenu.online/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/nutrition.html",
+      "destination": "https://www.pizzahutmenu.online/nutrition",
+      "permanent": true
+    },
+    {
+      "source": "/faq.html",
+      "destination": "https://www.pizzahutmenu.online/faq",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "https://www.pizzahutmenu.online/about",
+      "permanent": true
+    },
+    {
+      "source": "/privacy.html",
+      "destination": "https://www.pizzahutmenu.online/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/disclaimer.html",
+      "destination": "https://www.pizzahutmenu.online/disclaimer",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "https://www.pizzahutmenu.online/contact",
+      "permanent": true
+    },
+    {
+      "source": "/menu.html",
+      "destination": "https://www.pizzahutmenu.online/menu",
+      "permanent": true
+    },
+    {
+      "source": "/buffet-hours.html",
+      "destination": "https://www.pizzahutmenu.online/buffet-hours",
+      "permanent": true
+    },
+    {
+      "source": "/does-pizza-hut-have-a-buffet.html",
+      "destination": "https://www.pizzahutmenu.online/does-pizza-hut-have-a-buffet",
+      "permanent": true
+    },
+    {
       "source": "/index.html",
       "has": [
         {
@@ -238,6 +323,76 @@
       ],
       "destination": "https://www.pizzahutmenu.online/:path*",
       "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/buffet-menu",
+      "destination": "/buffet-menu.html"
+    },
+    {
+      "source": "/pizza",
+      "destination": "/pizza.html"
+    },
+    {
+      "source": "/sides",
+      "destination": "/sides.html"
+    },
+    {
+      "source": "/pasta",
+      "destination": "/pasta.html"
+    },
+    {
+      "source": "/wings",
+      "destination": "/wings.html"
+    },
+    {
+      "source": "/salads",
+      "destination": "/salads.html"
+    },
+    {
+      "source": "/desserts",
+      "destination": "/desserts.html"
+    },
+    {
+      "source": "/drinks",
+      "destination": "/drinks.html"
+    },
+    {
+      "source": "/nutrition",
+      "destination": "/nutrition.html"
+    },
+    {
+      "source": "/faq",
+      "destination": "/faq.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy.html"
+    },
+    {
+      "source": "/disclaimer",
+      "destination": "/disclaimer.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/menu",
+      "destination": "/menu.html"
+    },
+    {
+      "source": "/buffet-hours",
+      "destination": "/buffet-hours.html"
+    },
+    {
+      "source": "/does-pizza-hut-have-a-buffet",
+      "destination": "/does-pizza-hut-have-a-buffet.html"
     }
   ]
 }
