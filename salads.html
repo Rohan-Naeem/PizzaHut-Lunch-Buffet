@@ -27,20 +27,24 @@
   <a class="skip-link" href="#main">Skip to main content</a>
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="brand">
-        <img src="favicon/favicon.png" alt="" width="38" height="38">
+      <a href="/" class="brand">
+        <img src="favicon/favicon.png" alt="Pizza Hut Lunch Buffet" width="38" height="38">
         <span>Pizza Hut <em>Lunch Buffet</em></span>
       </a>
       <nav class="main-nav" aria-label="Primary">
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><a href="menu.html">Full Menu</a></li>
           <li><a href="buffet-menu.html">Buffet Menu</a></li>
           <li><a href="pizza.html">Pizza</a></li>
           <li><a href="sides.html">Sides</a></li>
           <li><a href="pasta.html">Pasta</a></li>
-          <li><a href="wings.html">Wings</a></li>
-          <li><a href="desserts.html">Desserts</a></li>
+          <li><a href="wings.html">Wings</a>
+          <a href="salads.html">Salads</a></li>
+          <li><a href="salads.html" aria-current="page">Salads</a></li>
+          <li><a href="desserts.html">Desserts</a>
+          <a href="drinks.html">Drinks</a></li>
+          <li><a href="drinks.html">Drinks</a></li>
           <li><a href="faq.html">FAQ</a></li>
         </ul>
       </nav>
@@ -95,13 +99,52 @@
     </div>
     <section class="section">
       <div class="container">
-        <div class="food-grid" data-food-grid data-preset-category="salads"></div>
+                <h2>Fresh Buffet Salad Options</h2>
+<div class="food-grid" data-food-grid data-preset-category="salads">
+  <article class="food-card" data-id="garden-salad" data-category="salads"
+     data-name="garden salad" data-desc="crisp mixed greens with tomato, cucumber, and shredded cheese."
+     data-cal="110">
+    <div class="thumb">
+      
+      <span class="badge cal">110 cal</span>
+      <img src="images/garden-salad.jpg" alt="Garden Salad" loading="lazy" width="600" height="450">
+    </div>
+    <div class="body">
+      <h3>Garden Salad</h3>
+      <p class="desc">Crisp mixed greens with tomato, cucumber, and shredded cheese.</p>
+      <div class="price-cal">
+        <span class="price">From $4.99</span>
+        <span class="cal">Approx. 110 Calories</span>
+      </div>
+      <button type="button" class="view-btn" data-view="garden-salad">View Details</button>
+    </div>
+  </article>
+  <article class="food-card" data-id="caesar-salad" data-category="salads"
+     data-name="caesar salad" data-desc="romaine lettuce, parmesan, and croutons with classic caesar dressing."
+     data-cal="190">
+    <div class="thumb">
+      
+      <span class="badge cal">190 cal</span>
+      <img src="images/caesar-salad.jpg" alt="Caesar Salad" loading="lazy" width="600" height="450">
+    </div>
+    <div class="body">
+      <h3>Caesar Salad</h3>
+      <p class="desc">Romaine lettuce, parmesan, and croutons with classic Caesar dressing.</p>
+      <div class="price-cal">
+        <span class="price">From $5.49</span>
+        <span class="cal">Approx. 190 Calories</span>
+      </div>
+      <button type="button" class="view-btn" data-view="caesar-salad">View Details</button>
+    </div>
+  </article>
+        </div>
       </div>
     </section>
     <script async="async" data-cfasync="false" src="https://bauval.org/21/1a991811617aeaff3ef1fb26d26bc8ee"></script>
     <div id="container-1a991811617aeaff3ef1fb26d26bc8ee"></div>
     <section class="section section-alt">
       <div class="container">
+        <h2>Reference Prices and Approximate Calories</h2>
         <div class="notice">Prices shown are reference/typical prices and <strong>calorie values are approximate
             estimates</strong>.
           Actual buffet pricing, participation, available items, and nutrition can vary by restaurant location. Please
@@ -124,7 +167,7 @@
         </div>
         <div>
           <h4>Explore</h4>
-          <a href="index.html">Home</a>
+          <a href="/">Home</a>
           <a href="buffet-menu.html">Buffet Menu</a>
           <a href="pizza.html">Pizza</a>
           <a href="sides.html">Sides</a>
