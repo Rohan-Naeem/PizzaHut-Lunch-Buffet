@@ -1,49 +1,243 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
     {
-      "destination": "https://www.pizzahutmenu.online/",
+      "source": "/buffet-menu.html",
       "has": [
         {
           "type": "host",
           "value": "pizza-hut-lunch-buffet.vercel.app"
         }
       ],
-      "permanent": true,
-      "source": "/index.html"
+      "destination": "https://www.pizzahutmenu.online/buffet-menu",
+      "permanent": true
     },
     {
+      "source": "/pizza.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/pizza",
+      "permanent": true
+    },
+    {
+      "source": "/sides.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/sides",
+      "permanent": true
+    },
+    {
+      "source": "/pasta.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/pasta",
+      "permanent": true
+    },
+    {
+      "source": "/wings.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/wings",
+      "permanent": true
+    },
+    {
+      "source": "/salads.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/salads",
+      "permanent": true
+    },
+    {
+      "source": "/desserts.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/desserts",
+      "permanent": true
+    },
+    {
+      "source": "/drinks.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/drinks",
+      "permanent": true
+    },
+    {
+      "source": "/nutrition.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/nutrition",
+      "permanent": true
+    },
+    {
+      "source": "/faq.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/faq",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/about",
+      "permanent": true
+    },
+    {
+      "source": "/privacy.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/privacy",
+      "permanent": true
+    },
+    {
+      "source": "/disclaimer.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/disclaimer",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/contact",
+      "permanent": true
+    },
+    {
+      "source": "/menu.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/menu",
+      "permanent": true
+    },
+    {
+      "source": "/buffet-hours.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/buffet-hours",
+      "permanent": true
+    },
+    {
+      "source": "/does-pizza-hut-have-a-buffet.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/does-pizza-hut-have-a-buffet",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
       "destination": "https://www.pizzahutmenu.online/",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
       "has": [
         {
           "type": "host",
           "value": "www.pizzahutmenu.online"
         }
       ],
-      "permanent": true,
-      "source": "/index.html"
-    },
-    {
       "destination": "https://www.pizzahutmenu.online/",
-      "has": [
-        {
-          "type": "host",
-          "value": "pizza-hut-lunch-buffet.vercel.app"
-        }
-      ],
-      "permanent": true,
-      "source": "/"
+      "permanent": true
     },
     {
-      "destination": "https://www.pizzahutmenu.online/:path*",
+      "source": "/index",
+      "destination": "https://www.pizzahutmenu.online/",
+      "permanent": true
+    },
+    {
+      "source": "/",
       "has": [
         {
           "type": "host",
           "value": "pizza-hut-lunch-buffet.vercel.app"
         }
       ],
-      "permanent": true,
-      "source": "/:path*"
+      "destination": "https://www.pizzahutmenu.online/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "pizza-hut-lunch-buffet.vercel.app"
+        }
+      ],
+      "destination": "https://www.pizzahutmenu.online/:path*",
+      "permanent": true
     }
   ]
 }
